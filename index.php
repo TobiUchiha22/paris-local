@@ -6,6 +6,6 @@
     <title>Git Remote</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo blanditiis in consequatur ipsa reprehenderit iusto possimus quae perferendis quibusdam! Maiores sequi voluptate vel hic nemo cupiditate vero ipsa sit pariatur!</p>
 </body>
 </html>
